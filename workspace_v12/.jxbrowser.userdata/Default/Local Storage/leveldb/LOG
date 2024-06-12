@@ -1,0 +1,14 @@
+2024/06/10-18:49:30.647 6de4 Reusing MANIFEST C:\Users\matth\workspace_v12\.jxbrowser.userdata\Default\Local Storage\leveldb/MANIFEST-000001
+2024/06/10-18:49:30.656 6de4 Recovering log #14
+2024/06/10-18:49:30.657 6de4 Level-0 table #17: started
+2024/06/10-18:49:30.661 6de4 Level-0 table #17: 22575 bytes OK
+2024/06/10-18:49:30.664 6de4 Delete type=0 #14
+2024/06/10-18:49:30.664 12a8 Compacting 4@0 + 1@1 files
+2024/06/10-18:49:30.674 12a8 Generated table #19@0: 10 keys, 11844 bytes
+2024/06/10-18:49:30.674 12a8 Compacted 4@0 + 1@1 files => 11844 bytes
+2024/06/10-18:49:30.676 12a8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/10-18:49:30.676 12a8 Delete type=2 #8
+2024/06/10-18:49:30.676 12a8 Delete type=2 #10
+2024/06/10-18:49:30.676 12a8 Delete type=2 #12
+2024/06/10-18:49:30.677 12a8 Delete type=2 #15
+2024/06/10-18:49:30.677 12a8 Delete type=2 #17

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;gpiointerrupt_CC2640R2_LAUNCHXL_nortos_gcc&apos;" deleteContents="false" description="Delete resource &apos;gpiointerrupt_CC2640R2_LAUNCHXL_nortos_gcc&apos;" element1="/gpiointerrupt_CC2640R2_LAUNCHXL_nortos_gcc" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1710792943429"/>
+</session>

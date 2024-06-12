@@ -1,0 +1,8 @@
+2024/06/06-09:44:28.768 37bc Reusing MANIFEST C:\Users\matth\workspace_v12\.jxbrowser.userdata\Default\Local Storage\leveldb/MANIFEST-000001
+2024/06/06-09:44:28.779 37bc Recovering log #9
+2024/06/06-09:44:28.779 37bc Level-0 table #12: started
+2024/06/06-09:44:28.783 37bc Level-0 table #12: 22653 bytes OK
+2024/06/06-09:44:28.785 37bc Delete type=0 #9
+2024/06/06-13:14:20.271 425c Level-0 table #15: started
+2024/06/06-13:14:20.274 425c Level-0 table #15: 28463 bytes OK
+2024/06/06-13:14:20.277 425c Delete type=0 #13
